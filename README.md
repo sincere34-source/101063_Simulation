@@ -9,5 +9,8 @@ This repository contains Jupyter notebooks for the **101063 Simulation** course,
 
 - **chap 4 Classification.ipynb**  
   Focuses on classification methods, model training, and evaluation techniques.
+
+- ** Chap 5 Resampling Method
+  Focuses on Resampling method Cross validation and Bootstrap
 ---
 
